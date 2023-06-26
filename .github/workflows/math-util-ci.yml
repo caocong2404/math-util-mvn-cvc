@@ -1,5 +1,5 @@
 
-name: Math Utility wih Maven & CI using GitHub Actions | © 2023 by caoconng2KB6
+name: Math Utility wih Maven & CI using GitHub Actions | © 2023 by caocong2KB6
 
 on:
   push:
